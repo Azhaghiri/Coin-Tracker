@@ -1,0 +1,45 @@
+*{
+    background-color: black;
+    color: white;
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: none;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: none;
+}
+/* th {
+    background-color: #f4f4f4;
+} */
+img {
+    width: 30px;
+    height: 30px;
+}
+#searchInput, #sortButton {
+    margin: 10px;
+}
+#searchInput{
+    width: 500px;
+    height: 30px;
+    border: 1px solid white;
+}
+#searchButton{
+    height: 30px;
+    border: 1px solid white;
+}
+#sortButton{
+    height: 30px;
+    border: 1px solid white;
+}
+#sortPercentageButton{
+    height: 30px;
+    border: 1px solid white;
+}
+#main{
+    margin-top: 30px;
+}
